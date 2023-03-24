@@ -1,0 +1,1 @@
+A semiconductor is a material with electrical conductivity between that of a conductor and an insulator. They are widely used in the electronics industry to make devices such as transistors, diodes, and integrated circuits. The invention of the semiconductor revolutionized the electronics industry and has had a profound impact on modern society.
